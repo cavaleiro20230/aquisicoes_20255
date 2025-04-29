@@ -3,7 +3,7 @@
 
 ### Sistema de Aquisições para Fundação vinculada ao Ministério Público
 
-Vou criar um sistema completo em Java para gerenciar aquisições em uma fundação vinculada ao Ministério Público, seguindo as normas e requisitos legais brasileiros.
+ sistema completo em Java para gerenciar aquisições em uma fundação vinculada ao Ministério Público, seguindo as normas e requisitos legais brasileiros.
 
 
 
